@@ -1,4 +1,4 @@
-:root {
+<<<<<<< HEAD :root {
   --font: system-ui;
   --max-width: 60ch;
   --body-padding: 2rem;
@@ -8,7 +8,7 @@
 }
 
 body {
-  width: min(var(--max-width), 100% - var(--body-padding));
+  width: min(100% - 2rem, 68ch), 100% - var(--body-padding);
   margin: 0 auto;
   color: var(--color-text);
   font-family: var(--font);
